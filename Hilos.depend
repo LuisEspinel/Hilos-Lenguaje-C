@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1429116920 source:/home/luigy/Documentos/Desarrollo Software/Desarrollo C-C++/Hilos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+	<unistd.h>
+	<luigy.h>
+
